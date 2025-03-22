@@ -8,5 +8,5 @@ PyPDF2
 chromadb==0.3.26
 faiss-cpu
 langchain-google-genai
-crewai  
+crewai==0.100.0
 SpeechRecognition
