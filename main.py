@@ -13,6 +13,8 @@ from langchain.prompts import PromptTemplate
 from crewai import Agent, Crew, Process
 from crewai.tools import BaseTool
 from typing import Any, Dict
+import chromadb
+chromadb.PersistentClient(path="chroma_db", database="duckdb")
 
 # Load environment variables
 load_dotenv()
