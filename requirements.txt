@@ -10,3 +10,6 @@ faiss-cpu
 langchain-google-genai
 crewai==0.100.0
 SpeechRecognition
+httpx<0.28.0,>=0.23.0
+tiktok>=0.7.0
+sqlite3>=3.35.0
