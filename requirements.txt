@@ -1,3 +1,7 @@
+pip==25.0.1
+setuptools>=69.0.3
+wheel>=0.42.0
+
 Pillow
 langchain-community
 streamlit
