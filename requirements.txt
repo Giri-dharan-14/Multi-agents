@@ -9,8 +9,7 @@ chromadb==0.3.26
 faiss-cpu
 langchain-google-genai
 crewai==0.22.2
-crewai_tools
+crewai-tools
 SpeechRecognition
-httpx<0.28.0,>=0.23.0
-tiktok>=0.7.0
-sqlite3>=3.35.0
+httpx>=0.23.0,<0.28.0
+tiktoken>=0.7.0
