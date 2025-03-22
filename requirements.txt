@@ -8,7 +8,7 @@ PyPDF2
 chromadb==0.3.26
 faiss-cpu
 langchain-google-genai
-crewai==0.22.0
+crewai==0.22.2
 SpeechRecognition
 httpx<0.28.0,>=0.23.0
 tiktok>=0.7.0
